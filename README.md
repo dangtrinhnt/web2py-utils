@@ -1,4 +1,9 @@
 web2py-utils
 ============
 
-A group of command line tools which help to simplify the web2py app development process
+Working with web2py framework in Django styles
+
+```
+web2py_utils createproject
+web2py_utils createapp
+```
